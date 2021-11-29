@@ -1,2 +1,2 @@
-# IonNeculceBucuresti-main
-IonNeculce Bucuresti main repository
+# EscolaDrJoseAfonsoSeixal-main
+Escola Dr Jose Afonso Seixal main repository
